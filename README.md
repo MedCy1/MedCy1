@@ -6,7 +6,7 @@
 - 🌱 Actuellement je potasse le **PHP, JS, PYTHON, HTML, CSS, C++, C#, LUA, JAVA**
 
 - 📫 Vous pouvez me contacter à **med@zer0dev.me**
-- 👨‍💻 Tous mes projets son dispo ici **zer0dev.me**
+- 👨‍💻 Tous mes projets son dispo ici <a href="zer0dev.me">zer0dev.me</a>
 - ⚡ Fun fact **¯\_(ツ)\_/¯**
 
 <div> <a href="https://discord.com/users/693579574579298364" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
