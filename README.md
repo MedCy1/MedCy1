@@ -9,7 +9,7 @@
 - 👨‍💻 Tous mes projets sont dispo ici <a href="http://zer0dev.me">zer0dev.me</a>
 - ⚡ Fun fact **(づ ᴗ _ᴗ)づ** ✘☕︎
 
-<div> <a href="https://discord.com/users/693579574579298364" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="http://discord.zer0dev.me" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/_med_r_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:med@zer0dev.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
