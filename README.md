@@ -1,5 +1,5 @@
 <h1 align="center">Salut ! Moi c'est Med</h1>
-<h3 align="center">Je suis juste un gars qui dev de tout et n'importe quoi depuis ces 10ans</h3>
+<h3 align="center">Je suis juste un gars qui dev de tout et n'importe quoi depuis bien trop longtemps</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medcy1&label=Profile%20views&color=0e75b6&style=flat" alt="medcy1" /> </p>
 
 - 🔭 Pour le moment je suis penché sur [Vega Admin Panel](https://github.com/MedCy1/Vega-Admin-Panel)
